@@ -1,0 +1,14 @@
+ 
+chatbot_with_cuda/__pycache__
+chatbot_with_cuda/knowledge_base/Fitzpatrick's_Color_Atlas_and_Synopsis_of_Clinical_Dermatology,.pdf
+chatbot_with_cuda/myenv
+
+.env
+
+cuda_gpu_computation/.ipynb_checkpoints
+cuda_gpu_computation/Acne Disease
+cuda_gpu_computation/Acne,SkinRedness&Bags
+cuda_gpu_computation/dataset-1
+cuda_gpu_computation/Dermnet_23
+cuda_gpu_computation/Monkeypox
+cuda_gpu_computation/myenv
