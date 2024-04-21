@@ -2,7 +2,7 @@
 chatbot_with_cuda/__pycache__
 chatbot_with_cuda/knowledge_base/Fitzpatrick's_Color_Atlas_and_Synopsis_of_Clinical_Dermatology,.pdf
 chatbot_with_cuda/myenv
-
+chatbot_with_cuda/.venv
 .env
 
 cuda_gpu_computation/.ipynb_checkpoints
